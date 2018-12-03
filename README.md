@@ -9,7 +9,7 @@ Open Server Settings on Discord, navigate to Webhooks. Select Create Webhook, fi
 
 Copy the Webhook URL, and click Save.
 
-Open your Wordpress settings, find "Post to Discord".
+Open your Wordpress general settings, find "Post to Discord".
 
 Enter your Webhook URL in the text box
 
